@@ -1,12 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ExercicoResolvido.Entities.Enums
 {
-     enum WorkerLevel : int
+    enum WorkerLevel : int
     {
         Junior,
         MidLevel = 1,
